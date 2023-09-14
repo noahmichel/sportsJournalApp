@@ -1,5 +1,7 @@
 # URL: https://master.d1w0q268rnrb6n.amplifyapp.com 
 
+Purpose: Capstone Project sponsored by RacerX Inc
+
 Title: Sports Journal App
 
 Description:
